@@ -1,0 +1,10 @@
+operators: operators is a special sym which is use to perform some operations between one two or more than two operands 
+we have eight types of operators in c 
+1. arithmetics operators (+,-,*,%,/)
+2. relational operators (>,<,>=,<=,==,!=)
+3. logical operators (&& ,||,!)
+4. ternary operators (? :)
+5. assignment operators (=)
+6. arithmetic assignment operators (+=,-=,*=,%=,/=)
+7. bit wise (AND OR XOR RSHIFT LSHIFT NOT(COMPLIMENT))
+8. punchuters  
